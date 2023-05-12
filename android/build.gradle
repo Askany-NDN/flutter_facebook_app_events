@@ -37,6 +37,8 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+
+    namespace "id.oddbit.flutter.facebook_app_events"
 }
 
 dependencies {
